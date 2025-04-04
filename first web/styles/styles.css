@@ -1,0 +1,37 @@
+html {
+    font-size: 10px; /* px 表示“像素（pixel）”: 基础字号为 10 像素 */
+    font-family:
+      "Open Sans", sans-serif; /* 这应该是你从 Google Fonts 得到的其余输出。 */
+      background-color: #00539f;/*更改背景颜色*/
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+    /* 第一个像素值：水平偏移量（向右为正值） 
+    第二个像素值：垂直偏移量（向下为正值）
+    第三个像素值：设置阴影的模糊半径。值越大产生的阴影越模糊
+    第四个值设置阴影的基色*/
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;/*行高*/
+    letter-spacing: 1px;/*字符间距*/
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;    /* 外边距（上右下左） */
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;    /* 内边距（上右下左） */
+    border: 5px solid black;    /* 边框（宽度 样式 颜色） */
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
