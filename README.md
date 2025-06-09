@@ -1,6 +1,6 @@
 
 # 莫雪莲  
-![头像](/resume/image/证件照.jpg){: .profile-img}
+![头像](/resume/image/证件照2.jpg){: .profile-img}
 
 **软件工程专业 | Java开发者 | 技术爱好者**  
 
