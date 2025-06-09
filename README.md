@@ -1,7 +1,4 @@
----
-layout: default
-title: 莫雪莲的个人主页
----
+
 # 莫雪莲  
 ![头像](https://via.placeholder.com/150){: .profile-img}
 
